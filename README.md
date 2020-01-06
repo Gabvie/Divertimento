@@ -1,4 +1,4 @@
-# Divertimento
+# Divertimento per li Regazzi - a digital edition
 A digital edition of the drawing series *Divertimento per li Regazzi* created by the Venetian artist Giovanni Domenico Tiepolo in the late 18th century
 
 The drawing series *Divertimento per li Regazzi* created by Giovanni Domenico Tiepolo lies at the intersection of narrative and figurative art: It features scenes that depict *Pulcinella*, the well-known character from the *Commedia dell’Arte*, in what appears to be different stages of his life, his birth, his adolescence or his death. Thus, the series can be ‘read’ as a kind of life story of *Pulcinella*. However, other than in linear narratives, the exact sequence of the drawings is unclear and even inconsistent. Furthermore, it is subverted by a playful arrangement of motifs that establish paradigmatic relationships between single drawings of the series or interlink them to works of other artists. 
