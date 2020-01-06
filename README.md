@@ -8,3 +8,5 @@ To present the *Divertimento* in its full complexity, we employ a digital editio
 ## Data Model
 
 We are using CIDOC-CRM as a reference model for our data. For our project, CIDOC-CRM has two advantages: 1. It is a de-facto standard and 2. it is event-based, which helps us to model a 'virtual' life-story of *Pulcinella* in the *Divertimento*, which we use as a sort of 'backbone' to arrange the single drawings. Like it is the case with all models, this does not mean that our proposal to 'read' the Divertimento is the only way to do it, but rather one possible way for a meaningful arrangement of the data. 
+
+Our data model can be found in 'tiepolo.owl'. It is based on the [Erlange-CRM](http://erlangen-crm.org/) implementation of the CIDOC.
